@@ -14,7 +14,7 @@ li {
 
 body {
   font-family: "Source Code Pro", monospace;
-  background: url(/portfolio-pessoal/img/background-montain.png) no-repeat top center;
+  background: url(../img/background-montain.png) no-repeat top center;
   background-attachment: fixed;
   background-size: cover;
   display: grid;
